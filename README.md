@@ -25,7 +25,17 @@ Each folder pertains to a particular task (synthesis route classification or syn
 # Cite
 If you use this dataset or code in your work please cite as:
 ```
-TBA
+@article{doi:10.1021/acs.chemmater.2c03010,
+author = {Karpovich, Christopher and Pan, Elton and Jensen, Zach and Olivetti, Elsa},
+doi = {10.1021/acs.chemmater.2c03010},
+journal = {Chemistry of Materials},
+number = {3},
+pages = {1062--1079},
+title = {{Interpretable Machine Learning Enabled Inorganic Reaction Classification and Synthesis Condition Prediction}},
+url = {https://doi.org/10.1021/acs.chemmater.2c03010},
+volume = {35},
+year = {2023}
+}
 ```
 
 # Disclaimer
