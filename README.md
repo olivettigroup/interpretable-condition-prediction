@@ -1,5 +1,5 @@
 # Interpretable Machine Learning Enabled Inorganic Reaction Classification and Synthesis Condition Prediction
-This repository contains the code and data for the paper *Interpretable Machine Learning Enabled Inorganic Reaction Classification and Synthesis Condition Prediction*.
+This repository contains the code and data for the paper *Interpretable Machine Learning Enabled Inorganic Reaction Classification and Synthesis Condition Prediction* by Karpovich et al.
 
 # Installation Instructions
 - Clone this repository and navigate to it. 
