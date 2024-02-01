@@ -21,6 +21,8 @@ Each folder pertains to a particular task (synthesis route classification or syn
 - The `rxn_condition_prediction` folder contains the necessary code for the reaction conditions prediction tasks.
   - The `CVAE` folder contains the necessary code for training and evaluating the conditional variational autoencoder model for condition prediction.
   - The `regression` folder contains the necessary code for training and evaluating the regression models for condition prediction.
+- The `data_extraction_featurization` folder contains the necessary code for extracting the data and featurizing it for ML modeling.
+- The `supplementary_data` folder contains data used for data extraction and preprocessing.
 
 # Cite
 If you use this dataset or code in your work please cite as:
